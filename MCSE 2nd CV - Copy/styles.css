@@ -1,0 +1,51 @@
+ 
+body {
+	
+
+  margin: 50px;
+  font-family: Times New Roman;
+}
+
+.topnav {
+	text-align: center;
+    overflow: hidden;
+    background-color: red;
+}
+
+.topnav a {
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 100px 20px;
+  text-decoration: none;
+  font-size: 20px;
+   
+}
+
+.topnav a:hover {
+  background-color: gray ;
+  color: green;
+}
+
+.footer {
+     
+
+ left: 0;
+    bottom: 0;
+    width: 100%;
+	
+    background-color: red;
+    color: white;
+    text-align: center;
+	
+}
+ .bd {
+	  
+    border-left: 20px solid;
+border-right:20px solid;
+border-bottom:20px solid;	
+padding: 20px;
+    border-color : green;
+    box-shadow: 5px 10px 8px #888888;
+}
+
